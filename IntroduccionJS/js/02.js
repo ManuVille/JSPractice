@@ -13,4 +13,4 @@ let NombreProducto = 'monitor hd';
 let nombreproducto = 'monitor hd';
 
 let variable;
-
+let variable2;
