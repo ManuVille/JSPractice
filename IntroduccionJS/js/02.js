@@ -14,3 +14,4 @@ let nombreproducto = 'monitor hd';
 
 let variable;
 let variable2;
+let variable3;
