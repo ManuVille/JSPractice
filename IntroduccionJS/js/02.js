@@ -11,3 +11,5 @@ let nombre_producto = 'monitor hd';
 let nombreProducto = 'monitor hd';
 let NombreProducto = 'monitor hd';
 let nombreproducto = 'monitor hd';
+
+ 
